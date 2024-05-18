@@ -1,3 +1,5 @@
 1. autoscan bonding shc
 2. API agv traffic acs
 3. Edit OI CN CMS
+4. membuat equipment management
+5. membuat project lanjutan
