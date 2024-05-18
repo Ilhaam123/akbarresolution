@@ -2,4 +2,4 @@
 2. API agv traffic acs
 3. Edit OI CN CMS
 4. membuat equipment management
-5. membuat project lanjutan
+5. membuat vlog
